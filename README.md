@@ -1,6 +1,6 @@
 👋 Hi, I’m @kent-3 \
 👀 I’m interested in Secret Network \
-🌱 I’m currently learning Rust, CosmWasm, griptape.js
+🌱 I’m currently learning Rust, CosmWasm, secretJS
 <!-- - 💞️ I’m looking to collaborate on dApps and NFT projects -->
 <!-- - 📫 How to reach me ... -->
 
