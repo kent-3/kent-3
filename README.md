@@ -1,6 +1,6 @@
 👋 Hi, I’m @kent-3 \
 👀 I’m interested in Secret Network \
-🌱 I’m currently learning Rust, CosmWasm, secretJS
+🌱 I’m currently learning smart contract development
 <!-- - 💞️ I’m looking to collaborate on dApps and NFT projects -->
 <!-- - 📫 How to reach me ... -->
 
