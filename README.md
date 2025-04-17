@@ -1,7 +1,7 @@
 👋 Hi, I’m @kent-3! \
 👀 I’m interested in blockchain, privacy, and web development. \
-🌱 I’m currently learning Rust.
-<!-- 🤝 I’m looking to collaborate on dApps and NFT projects -->
+🌱 I’m always learning Rust.
+
 <!-- 📫 How to reach me:  -->
 
 <!---
